@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0 15px;
+}
+
+.header__mobile-nav-button {
+  block-size: 25px;
+  inline-size: 35px;
+  background-image: url(../../img/svg/mobile-nav-button.svg);
+}

@@ -3,3 +3,28 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-color: #ffffff;
+  font-family: "Noto sans", "Arial", sans-serif;
+  color: #2a2a2a;
+  padding: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
